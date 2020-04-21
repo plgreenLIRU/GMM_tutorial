@@ -1,0 +1,12 @@
+
+# Ignore all files in directory __pycache__/
+__pycache__/
+
+# Ignore files make by LaTeX
+*.synctex.gz
+*.log
+*.aux
+*.bbl
+*.blg
+*.spl
+*.toc
